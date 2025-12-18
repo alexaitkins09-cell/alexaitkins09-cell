@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Alex
 
-<!--
-**alexaitkins09-cell/alexaitkins09-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student and developer interested in programming, game development, and technology. I like building projects that help me learn by doing, especially with Java, Python, and game engines like Godot.
 
-Here are some ideas to get you started:
+## What I’m working on
+- School programming projects  
+- Small games and experiments  
+- Learning better problem-solving and clean code practices  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Improve as a programmer and game developer  
+- Build a solid portfolio over time  
+- Learn skills that translate to real-world applications  
+
+## Tools & Languages
+- Java  
+- Python  
+- Godot  
+- Git & GitHub  
+
+Thanks for checking out my profile.
